@@ -150,7 +150,10 @@ li{
 }
 
 /**** individual row blocks (date - decorator - details) ****/
-
+.profile-img{
+  display:fles;
+  flex-flow: row;
+}
 .blocks{
   display: flex;
   flex-flow: row nowrap;
@@ -325,7 +328,7 @@ li{
 }
 
 .side-block{
-  margin-top: 0.5in; 
+  margin-top: 0.3in; 
 }
 
 #contact ul{
